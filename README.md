@@ -1,5 +1,5 @@
 # Tic-Tac-Chain
-Blockchain based tic tac toe (467H coursework)
+Blockchain based tic tac toe game
 
 ## Overview
 	
